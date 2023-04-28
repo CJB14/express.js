@@ -14,3 +14,8 @@ This app made use of Node.js, Express.js and javascript to create the front and 
 
 ## Photo
 <img width="1920" alt="Screenshot 2023-04-27 at 10 23 10 PM" src="https://user-images.githubusercontent.com/119978168/235040696-00965205-6278-4e12-b861-612be04757ad.png">
+
+
+## USE Format
+
+"http://localhost:<port>"
