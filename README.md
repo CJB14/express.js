@@ -28,3 +28,5 @@ npm i express
 # to deploy page
 use this format to deploy page http://localhost:3001
 
+## screenshot
+<img width="1920" alt="Screenshot 2023-05-01 at 4 47 56 PM" src="https://user-images.githubusercontent.com/119978168/235528648-4b9f0f50-d345-408a-9643-b24adc0e8284.png">
